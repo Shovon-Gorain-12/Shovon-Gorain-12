@@ -93,12 +93,12 @@
 # ### Projects Using Language
 
 <p>
-    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShovonGorain12&show_icons=true&locale=en&layout=compact" alt="ShovonGorain12" />
+    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shovon-Gorain-12&show_icons=true&locale=en&layout=compact" alt="Shovon-Gorain-12" />
 </p>
 
 # ### Starts In Github Repositories
 
 <p> 
-    <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=ShovonGorain12&theme=white&show_icons=true" alt="ShovonGorain12">
-    <img align="right" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=ShovonGorain12" alt="ShovonGorain12"> 
+    <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=Shovon-Gorain-12&theme=white&show_icons=true" alt="Shovon-Gorain-12">
+    <img align="right" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Shovon-Gorain-12" alt="Shovon-Gorain-12"> 
 </p>
